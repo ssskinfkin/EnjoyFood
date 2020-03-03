@@ -1,4 +1,4 @@
-## Welcome to EnjoyFood
+## Welcome to EnFood
 
 ![Image](icon.jpg)
 
